@@ -27,4 +27,4 @@ symbols
 the string, ignoring all other characters
 12. Given an input string, count occurrences of all characters within a string
 
-have fun they are all commented
+have fun some are commented, then i got bored so if u don't understand something i'm sorry, go to stackoverflow
